@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644545118439",
+    "project_id": "udemyfirebasestert2",
+    "storage_bucket": "udemyfirebasestert2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644545118439:android:7cc27a2ff37e512c942242",
+        "android_client_info": {
+          "package_name": "com.wiktor.udemyfirebasestart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644545118439-74un3gh7d8n7tglkrgui7lht1bltqrc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eSWAfKYvX7dREy6CpSynzsHsx4Qu2Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644545118439-74un3gh7d8n7tglkrgui7lht1bltqrc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
